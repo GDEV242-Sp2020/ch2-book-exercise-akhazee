@@ -28,10 +28,10 @@ class Book
         return author;
     
 }
-public String getTitle(){
+    public String getTitle(){
         return title;
     
-}public int getPages(){
+}   public int getPages(){
         return pages;
     
 }
