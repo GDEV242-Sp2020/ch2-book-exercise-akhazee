@@ -8,8 +8,8 @@
  */
 class Book
 {
-    
-    private String Ari;
+     // The fields.
+    private String author;
     private String title;
 
     /**
