@@ -3,13 +3,13 @@
  * This might form part of a larger application such
  * as a library system, for instance.
  *
- * @author (Insert your name here.)
- * @version (Insert today's date here.)
+ * @author (Ari K)
+ * @version (February 3rd)
  */
 class Book
 {
-     // The fields.
-    private String author;
+    
+    private String Ari;
     private String title;
 
     /**
